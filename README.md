@@ -1,2 +1,0 @@
-# RandomQuoteMachine
-Created with CodeSandbox
