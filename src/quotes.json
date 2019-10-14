@@ -1,0 +1,218 @@
+[
+  { 
+    "_id": "DA03EC8C-13E1-4520-B8C7-00A22388435B",
+    "quoteText": "He who plants a tree, plants a hope.",
+    "quoteAuthor": "Unknown",
+    "color": "#416b1d",
+    "imageUrl": "../statics/0.jpg",
+    "imgWidth": "600",
+    "imgHeight": "400"
+  },
+  { 
+    "_id": "7AD03E25-4A68-4B6D-A82E-41DF67D29A99",
+    "quoteText": "A society grows great when old men plant trees whose shade they know they shall never sit in.",
+    "quoteAuthor": "Greek proverb",
+    "color": "#c67130",
+    "imageUrl": "../statics/1.jpg",
+    "imgWidth": "1280",
+    "imgHeight": "719"
+  },
+  { 
+    "_id": "1ABFD8F6-4067-4143-BAD6-314E8E1550F5",
+    "quoteText": "The tree of silence bears the fruits of peace.",
+    "quoteAuthor": "Arabian Proverb",
+    "color": "#ac4819",
+    "imageUrl": "../statics/2.jpg",
+    "imgWidth": "1280",
+    "imgHeight": "717"
+  },
+  { 
+    "_id": "CED380B2-C389-4EC1-A675-D8517070B871",
+    "quoteText": "All birds will flock to a fruitful tree.",
+    "quoteAuthor": "Senegalese Proverb",
+    "color": "#584223",
+    "imageUrl": "../statics/3.jpg",
+    "imgWidth": "1280",
+    "imgHeight": "829"
+  },
+  { 
+    "_id": "99BBC9DC-0F64-407D-A3FC-BFBF35466A9B",
+    "quoteText": "Do not cut down the tree that gives you shade.",
+    "quoteAuthor": "Arabian Proverbs",
+    "color": "#d36d72",
+    "imageUrl": "../statics/4.jpg",
+    "imgWidth": "1280",
+    "imgHeight": "853"
+  },
+  { 
+    "_id": "7E5C7052-E992-4AF6-A9ED-60C3AE7C6F4B",
+    "quoteText": "If you want to be happy for a year, plant a garden; if you want to be happy for life, plant a tree.",
+    "quoteAuthor": "English Proverb",
+    "color": "#7e5333",
+    "imageUrl": "../statics/5.jpg",
+    "imgWidth": "1280",
+    "imgHeight": "800"
+  },
+  { 
+    "_id": "D215DFDC-3FB7-4937-981B-1999F238FBAB",
+    "quoteText": "A seed hidden in the heart of an apple is an orchard invisible.",
+    "quoteAuthor": "Welsh Proverb",
+    "color": "#c83537",
+    "imageUrl": "../statics/6.jpg",
+    "imgWidth": "1280",
+    "imgHeight": "754"
+  },
+  { 
+    "_id": "8C777CAE-EA14-40D6-B91A-AB3BC7F198C5",
+    "quoteText": "Only when the last tree has died and the last river been poisoned and the last fish been caught will we realize we cannot eat money.",
+    "quoteAuthor": "Cree Proverb",
+    "color": "#36344f",
+    "imageUrl": "../statics/7.jpg",
+    "imgWidth": "1280",
+    "imgHeight": "853"
+  },
+  { 
+    "_id": "71DBAB83-5C47-43E4-B88D-60D164BC2F70",
+    "quoteText": "Don’t despise the seed, one day it will be a palm tree.",
+    "quoteAuthor": "Angolan Proverb",
+    "color": "#19736b",
+    "imageUrl": "../statics/8.jpg",
+    "imgWidth": "1280",
+    "imgHeight": "853"
+  },
+  { 
+    "_id": "CE9EF2F2-DF8B-4D06-A237-F9BEA7F05A7B",
+    "quoteText": "You don’t have to cut a tree down to get the fruit.",
+    "quoteAuthor": "Cambodian Proverb",
+    "color": "#4b4b4b",
+    "imageUrl": "../statics/9.jpg",
+    "imgWidth": "1280",
+    "imgHeight": "960"
+  },
+  { 
+    "_id": "ABCA9E7D-0BED-4CC0-A0BA-60C5CB69DE16",
+    "quoteText": "Though a tree grows ever so high, the falling leaves return to its roots.",
+    "quoteAuthor": "Malawian Proverb",
+    "color": "#bd4a0f",
+    "imageUrl": "../statics/10.jpg",
+    "imgWidth": "1280",
+    "imgHeight": "960"
+  },
+  { 
+    "_id": "214BC754-F0F4-425B-80A3-EB5B45CFA516",
+    "quoteText": "Any fool can count the seeds in an apple. Only God can count all the apples in one seed.",
+    "quoteAuthor": "Robert Schuller",
+    "color": "#941936",
+    "imageUrl": "../statics/11.jpg",
+    "imgWidth": "1280 ",
+    "imgHeight": "853"
+  },
+  { 
+    "_id": "68D4C641-56B3-4807-836E-DEE7A59B5E0B",
+    "quoteText": "Praise be to you, Our Lord, through our Sister, Mother Earth, who sustains and governs us, and who produces various fruits, with colored flowers and herbs.",
+    "quoteAuthor": "Pope Francis",
+    "color": "#0c2a7f",
+    "imageUrl": "../statics/12.jpg",
+    "imgWidth": "1280",
+    "imgHeight": "768"
+  },
+  { 
+    "_id": "722957BE-38D9-40DF-A099-74E69BA873AD",
+    "quoteText": "Taste every fruit of every tree in the garden at least once. It is an insult to creation not to experience it fully. Temperance is wickedness.",
+    "quoteAuthor": "Stephen Fry",
+    "color": "#a42231",
+    "imageUrl": "../statics/13.jpg",
+    "imgWidth": "1276",
+    "imgHeight": "750"
+  },
+  { 
+    "_id": "6E46990E-29FD-4FCB-8A18-BD2D6081225D",
+    "quoteText": "In an orchard there should be enough fruit to eat, enough to lay up, enough to be stolen, and enough to rot upon the ground.",
+    "quoteAuthor": "Samuel Madden",
+    "color": "#72a52f",
+    "imageUrl": "../statics/14.jpg",
+    "imgWidth": "1024",
+    "imgHeight": "682"
+  },
+  { 
+    "_id": "83385C1E-BA54-4BAC-9536-CDF5BDCE3359",
+    "quoteText": "Fruits each in its season, are the cheapest, most elegant and wholesome dessert  you can offer your family or friends, at luncheon or tea. Pastry and plum-pudding should be prohibited by law, from the beginning of June until the end of September.",
+    "quoteAuthor": "Marion Harland",
+    "color": "#a92815",
+    "imageUrl": "../statics/15.jpg",
+    "imgWidth": "1300",
+    "imgHeight": "863"
+  },
+  { 
+    "_id": "ADE5D559-8B75-4DB1-8DC3-FF2BF3EA2733",
+    "quoteText": "With an apple I will astonish Paris.",
+    "quoteAuthor": "Paul Cézanne",
+    "color": "#957c47",
+    "imageUrl": "../statics/16.jpg",
+    "imgWidth": "1200",
+    "imgHeight": "872"
+  },
+  { 
+    "_id": "F6ECC82F-4EA1-4C54-A146-E8BE76FDE31D",
+    "quoteText": "Truth is a fruit that can only be picked when it is very ripe.",
+    "quoteAuthor": "Voltaire",
+    "color": "#1a419b",
+    "imageUrl": "../statics/17.jpg",
+    "imgWidth": "1280",
+    "imgHeight": "960"
+  },
+  { 
+    "_id": "06604E42-0809-4472-9DA3-C3078D594CB5",
+    "quoteText": "Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.",
+    "quoteAuthor": "Martin Luther",
+    "color": "#19736b",
+    "imageUrl": "../statics/18.jpg",
+    "imgWidth": "1920",
+    "imgHeight": "1200"
+  },
+  { 
+    "_id": "6C73C911-4348-4E0A-886C-EB2408FA83F4",
+    "quoteText": "When one has tasted watermelon he knows what the angels eat.",
+    "quoteAuthor": "Mark Twain (Samuel Langhorne Clemens)",
+    "color": "#1c9486",
+    "imageUrl": "../statics/19.jpg",
+    "imgWidth": "800",
+    "imgHeight": "533"
+  },
+  { 
+    "_id": "7B81DED7-EA27-4A3C-A83F-AAB102B8C4B5",
+    "quoteText": "When life gives you lemons, make lemonade.",
+    "quoteAuthor": "Elbert Hubbard",
+    "color": "#992a17../",
+    "imageUrl": "../statics/20.jpg",
+    "imgWidth": "1120",
+    "imgHeight": "700"
+  },
+  { 
+    "_id": "C5701964-8A09-4ECF-A7F1-B7704053BEF7",
+    "quoteText": "Life is like a fruit, sometimes sour, sometimes sweet.",
+    "quoteAuthor": "Geetika",
+    "color": "#ae1009",
+    "imageUrl": "../statics/23.jpg",
+    "imgWidth": "1287",
+    "imgHeight": "797"
+  },
+  { 
+    "_id": "5E7009CC-7F07-4362-9E5E-FDFD3E6890F4",
+    "quoteText": "To eat is a necessity, but to eat intelligently is an art.",
+    "quoteAuthor": "François de la Rochefoucauld",
+    "color": "#f21b36",
+    "imageUrl": "../statics/22.jpg",
+    "imgWidth": "960",
+    "imgHeight": "587"
+  },
+  { 
+    "_id": "8B053264-238E-488C-9D10-79CE5BF07215",
+    "quoteText": "Love is a fruit in season at all times and within reach of every hand.",
+    "quoteAuthor": "Mother Teresa ",
+    "color": "#442e26",
+    "imageUrl": "../statics/21.jpg",
+    "imgWidth": "1600",
+    "imgHeight": "1200"
+  }
+]
