@@ -94,7 +94,7 @@
     "quoteText": "Though a tree grows ever so high, the falling leaves return to its roots.",
     "quoteAuthor": "Malawian Proverb",
     "color": "#bd4a0f",
-    "imageUrl": "https://raw.githubusercontent.com/Mangosteen-bit/RandomQuoteMachine/master/src/../statics/img/10.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Mangosteen-bit/RandomQuoteMachine/master/src/img/10.jpg",
     "imgWidth": "1280",
     "imgHeight": "960"
   },
@@ -211,7 +211,7 @@
     "quoteText": "Love is a fruit in season at all times and within reach of every hand.",
     "quoteAuthor": "Mother Teresa ",
     "color": "#442e26",
-    "imageUrl": "https://raw.githubusercontent.com/Mangosteen-bit/RandomQuoteMachine/master/src/statics/img/21.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Mangosteen-bit/RandomQuoteMachine/master/src/img/21.jpg",
     "imgWidth": "1600",
     "imgHeight": "1200"
   }
